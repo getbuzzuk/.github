@@ -8,12 +8,12 @@ Lean more about us visiting our website: [getbuzz.uk](http://getbuzz.uk/)
 ## Connect with us
 
 <p align="center">
-  <a href="https://www.getbuzz.uk">
-    <img src="https://github.com/getbuzzuk/.github/resources/twitter.svg" alt="@getbuzzuk" style="vertical-align:top; margin:4px">
+  <a href="https://twitter.com/getbuzzuk">
+    <img src="https://github.com/getbuzzuk/.github/blob/main/resources/twitter.svg" alt="@getbuzzuk" style="vertical-align:top; margin:4px">
   </a>  
 
   <a href="https://www.linkedin.com/company/getbuzzuk/">
-    <img src="https://github.com/getbuzzuk/.github/resources/linkedln.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
+    <img src="https://github.com/getbuzzuk/.github/blob/main/resources/linkedIn.svg" alt="LinkedIn" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
